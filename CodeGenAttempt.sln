@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGenExample", "CodeGenExample\CodeGenExample.csproj", "{2EEB4537-006F-4777-860B-7ABAE9848DC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceGenerator", "SourceGenerator\SourceGenerator.csproj", "{0FE8BB1E-0309-4527-A575-85BB93D54387}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EEB4537-006F-4777-860B-7ABAE9848DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EEB4537-006F-4777-860B-7ABAE9848DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EEB4537-006F-4777-860B-7ABAE9848DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EEB4537-006F-4777-860B-7ABAE9848DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FE8BB1E-0309-4527-A575-85BB93D54387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE8BB1E-0309-4527-A575-85BB93D54387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE8BB1E-0309-4527-A575-85BB93D54387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE8BB1E-0309-4527-A575-85BB93D54387}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
